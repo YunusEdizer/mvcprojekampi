@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "İstatistik Sayfası";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml"; 
+}
+
+<div class="content-wrapper">
+    <section class="content-header">
+        <h1>İstatistikler</h1>
+    </section>
+
+    <section class="content">
+        <div class="row">
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-info">
+                    <div class="inner">
+                        <h3>@ViewBag.TotalCategories</h3>
+                        <p>Toplam Kategori</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-list"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-success">
+                    <div class="inner">
+                        <h3>@ViewBag.HasSoftwareCategory</h3>
+                        <p>"Software" Kategorisi Var mı?</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-warning">
+                    <div class="inner">
+                        <h3>@ViewBag.CategoryWithA</h3>
+                        <p>'a' Harfi İçeren Kategoriler</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-font"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-danger">
+                    <div class="inner">
+                        <h3>@ViewBag.LongestCategory</h3>
+                        <p>En Uzun Kategori Adı</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-text-width"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-6">
+                <div class="small-box bg-primary">
+                    <div class="inner">
+                        <h3>@ViewBag.StatusDifference</h3>
+                        <p>Aktif-Pasif Farkı</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-balance-scale"></i>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+</div>
