@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Yetenek Kartım";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<EntityLayer.Concrete.Skill>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Skills</title>
+    <link href="~/SkillsTheme/web/css/style.css" rel="stylesheet" />
+    <script src="~/SkillsTheme/web/js/jquery-1.11.1.min.js"></script>
+    <script src="~/SkillsTheme/web/js/easyResponsiveTabs.js"></script>
+    <script src="~/SkillsTheme/web/js/jquery.circlechart.js"></script>
+</head>
+<body>
+
+    <div class="main">
+        <h1>My Skills</h1>
+
+        <div class="tabs">
+            <div id="horizontalTab">
+                <ul class="resp-tabs-list">
+                    @foreach (var item in Model)
+                    {
+                        <li>@item.SkillName</li>
+                    }
+                </ul>
+                <div class="resp-tabs-container">
+                    @foreach (var item in Model)
+                    {
+                        <div>
+                            <div class="skills-info">
+                                <div class="circle" data-percent="@item.SkillValue"></div>
+                                <p>@item.SkillName - @item.SkillValue%</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#horizontalTab').easyResponsiveTabs({
+                type: 'default',
+                width: 'auto',
+                fit: true
+            });
+
+            $('.circle').each(function () {
+                var value = $(this).data('percent');
+                $(this).circlechart({ value: value });
+            });
+        });
+    </script>
+
+</body>
+</html>

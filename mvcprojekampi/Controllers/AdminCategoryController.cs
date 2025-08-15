@@ -14,7 +14,9 @@ namespace mvcprojekampi.Controllers
 {
     public class AdminCategoryController : Controller
     {
-        CategoryManager cm=new CategoryManager(new EfCategoryDal());
+        CategoryManager cm = new CategoryManager(new EfCategoryDal());
+
+        [Authorize(Roles = "B")]
         public ActionResult Index()
         {
             var categoryvalues = cm.GetList();
@@ -28,7 +30,7 @@ namespace mvcprojekampi.Controllers
         [HttpPost]
         public ActionResult AddCategory(Category p)
         {
-            CategoryValidator categoryvalidator= new CategoryValidator();
+            CategoryValidator categoryvalidator = new CategoryValidator();
             ValidationResult results = categoryvalidator.Validate(p);
             if (results.IsValid)
             {
@@ -37,15 +39,15 @@ namespace mvcprojekampi.Controllers
             }
             else
             {
-                foreach (var item in results.Errors) 
+                foreach (var item in results.Errors)
                 {
                     ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
-                }   
+                }
             }
-                return View();
+            return View();
         }
 
-        public ActionResult DeleteCategory(int id) 
+        public ActionResult DeleteCategory(int id)
         {
             var categoryvalue = cm.GetByID(id);
             cm.CategoryDelete(categoryvalue);
@@ -55,7 +57,7 @@ namespace mvcprojekampi.Controllers
         [HttpGet]
         public ActionResult EditCategory(int id)
         {
-            var categoryvalue=cm.GetByID(id);
+            var categoryvalue = cm.GetByID(id);
             return View(categoryvalue);
         }
 

@@ -13,5 +13,12 @@ C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLa
 C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
 C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InitialCreate.resources
 C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contact_adddate.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_isread.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.AddAboutStatusColumn.resources
+C:\Users\edize\source\repos\mvcprojekampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_skill.resources
