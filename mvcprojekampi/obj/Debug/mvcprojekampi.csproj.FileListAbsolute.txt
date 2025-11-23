@@ -96,3 +96,7 @@ C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\System.Threading.Tas
 C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\FluentValidation.xml
 C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\PagedList.dll
+C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\PagedList.Mvc.dll
+C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\PagedList.xml
+C:\Users\edize\source\repos\mvcprojekampi\mvcprojekampi\bin\PagedList.Mvc.xml

@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|c:\\users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\views\\writerpanel\\myheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\views\\writerpanel\\myheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\views\\writerpanel\\editheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\views\\writerpanel\\editheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\controllers\\writerpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\controllers\\writerpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\views\\heading\\editheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\views\\heading\\editheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\controllers\\headingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\controllers\\headingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\views\\writerpanel\\newheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\views\\writerpanel\\newheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\views\\heading\\addheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\views\\heading\\addheading.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\views\\shared\\_writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72240086-65C2-450C-9BB7-A752085E4B82}|mvcprojekampi\\mvcprojekampi.csproj|solutionrelative:mvcprojekampi\\views\\shared\\_writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,8 +9,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -51,103 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\Heading\\EditHeading.cshtml",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Views\\Heading\\EditHeading.cshtml",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\Heading\\EditHeading.cshtml",
-              "RelativeToolTip": "mvcprojekampi\\Views\\Heading\\EditHeading.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T20:43:16.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\WriterPanel\\EditHeading.cshtml",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Views\\WriterPanel\\EditHeading.cshtml",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\WriterPanel\\EditHeading.cshtml",
-              "RelativeToolTip": "mvcprojekampi\\Views\\WriterPanel\\EditHeading.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T20:43:04.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\WriterPanel\\MyHeading.cshtml",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Views\\WriterPanel\\MyHeading.cshtml",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\WriterPanel\\MyHeading.cshtml",
-              "RelativeToolTip": "mvcprojekampi\\Views\\WriterPanel\\MyHeading.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T20:39:13.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WriterPanelController.cs",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Controllers\\WriterPanelController.cs",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Controllers\\WriterPanelController.cs",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Controllers\\WriterPanelController.cs",
-              "RelativeToolTip": "mvcprojekampi\\Controllers\\WriterPanelController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwEQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:12:16.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HeadingController.cs",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Controllers\\HeadingController.cs",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Controllers\\HeadingController.cs",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Controllers\\HeadingController.cs",
-              "RelativeToolTip": "mvcprojekampi\\Controllers\\HeadingController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowDIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T20:15:20.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\WriterPanel\\NewHeading.cshtml",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Views\\WriterPanel\\NewHeading.cshtml",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\WriterPanel\\NewHeading.cshtml",
-              "RelativeToolTip": "mvcprojekampi\\Views\\WriterPanel\\NewHeading.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T20:19:59.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddHeading.cshtml",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\Heading\\AddHeading.cshtml",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Views\\Heading\\AddHeading.cshtml",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\Heading\\AddHeading.cshtml",
-              "RelativeToolTip": "mvcprojekampi\\Views\\Heading\\AddHeading.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T20:20:40.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_WriterLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\Shared\\_WriterLayout.cshtml",
-              "RelativeDocumentMoniker": "mvcprojekampi\\Views\\Shared\\_WriterLayout.cshtml",
-              "ToolTip": "C:\\Users\\edize\\source\\repos\\mvcprojekampi\\mvcprojekampi\\Views\\Shared\\_WriterLayout.cshtml",
-              "RelativeToolTip": "mvcprojekampi\\Views\\Shared\\_WriterLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T20:14:58.998Z"
             }
           ]
         }

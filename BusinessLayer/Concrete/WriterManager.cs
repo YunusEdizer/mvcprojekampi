@@ -42,5 +42,6 @@ namespace BusinessLayer.Concrete
         {
             _writerDal.Update(writer);
         }
+        
     }
 }

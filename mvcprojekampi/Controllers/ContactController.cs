@@ -15,6 +15,7 @@ namespace mvcprojekampi.Controllers
         ContactManager cm=new ContactManager(new EfContactDal());
         ContactValidator cv=new ContactValidator();
         MessageManager mm = new MessageManager(new EfMessageDal());
+        
         public ActionResult Index()
         {
             var contactvalues = cm.GetList();
@@ -26,10 +27,10 @@ namespace mvcprojekampi.Controllers
             var contactvalues = cm.GetByID(id);
             return View(contactvalues);
         }
-        public PartialViewResult MessageListMenu()
+        public PartialViewResult MessageListMenu(string p)
         {
             string userMail = "yazar@mail.com"; // oturumdan User.Identity.Name de olabilir
-            var unread = mm.GetListInbox().Where(x => x.IsRead == false && x.ReceiverMail == userMail).Count();
+            var unread = mm.GetListInbox(p).Where(x => x.IsRead == false && x.ReceiverMail == userMail).Count();
             ViewBag.UnreadCount = unread;
             return PartialView();
         }
